@@ -13,4 +13,4 @@
 1. 更新后自动推送至企业微信机器人。
 1. 自动账号密码登录
 1. 网页添加新的分享链接
-![image](https://github.com/1738394450/-cloud189autosave/src/网页添加分享链接图.jpg)
+![image](src/企业微信机器人推送图.jpg)
